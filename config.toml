@@ -1,0 +1,4 @@
+baseURL = "http://radiant.quest/"
+languageCode = "en-us"
+title = "Radiant"
+theme = ["radiant"]
